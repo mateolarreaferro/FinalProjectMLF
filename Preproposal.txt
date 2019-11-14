@@ -1,0 +1,42 @@
+// Preproposal Final Project
+LMSC-261 FA 
+Mateo Larrea (0851571)
+Instructor: Akito Van Troyer 
+
+1. What idea(s) do you have for your final project?
+
+A) Mare(a/o) Web Page
+"Mare(a/o) is the name of my first LP, it means both "tide" and "dizziness". 
+Once the mixes were ready, I sent the 11 song album to several friends involved in the visual arts; they were all expected to choose a song 
+and respond through the creation of an image, video, animation, or text...
+Project: Create a web page for the album that stores all of the content created by this group of artists.
+- The web-page should ask for the current mood of the user, and generate an specific song order based on the input 
+- The web-page should have one section for each song (11) and a main page for the mood input 
+
+
+B) Sphere of Life (Jade Family Ball) 
+This interesting little sculpture represents the relationship between a son, father, and grandfather; three generations layered in a sphere. 
+For the project, I want to create an installation/application that generates a unique melodic sequence for each one of the three members; and an overall composition that
+makes sense as a whole (even though each melody is different from the other). 
+The program will ask for the input of each family member:
+- year of birth ---> to determine scale 
+- favorite color ---> to determine the key
+- bpm (in rest) ----> to determine tempo 
+
+Result: a composition that illustrates the union between three generations living at differente paces but sharing essence. 
+
+
+
+2. Do you have any questions of your own?
+
+A) Mare(a/o) Web Page
+- What IDE suits this project? 
+- Do I need to pay for a domain? (in case the page actually works)
+- Could I use code from an existing page?
+- Javascript or Python?
+
+B) Sphere of Life (Jade Family Ball) 
+- audio or midi files? (Predetermined sequences for all potential combinations or real time randomness)
+- Installation or application?
+- If app: Some ux design will be required (what software should I use for this?)
+- What language is the bwest fit?
