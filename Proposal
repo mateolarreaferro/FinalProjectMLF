@@ -1,0 +1,46 @@
+Proposal
+
+What will (likely) be the title of your project?
+“Mare(a/o)”
+https://docs.google.com/document/d/1pwIIEazpog0WXkVdXT41ZZejYt7fFOYyj6-VVbVqzTk/edit
+(This link contains the instructions sent to the artist that will participate on the project) 
+
+In just a sentence or two, summarize your project. (E.g., "A website that shows infinite amount of cat pictures.")
+A dynamic website that generates possible ways of listening/experiencing my new album, “Mare(a/o)”. 
+
+In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+This web page will contain a set of media (such as images/covers, animations, videos, essays, etc.) that was created as a response to the each one of the songs in the album. The idea is that the main page requests the input of the user by asking “how do you feel today?”. A set of possibilities will be displayed and the user will chose one that will take him/her to an specific song (that has an specific song next to it). Once in the filtered selection, the page will automatically play the audio and will give the user the chance of opening all of the related media… 
+
+In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A functional web page that contains the music and art of the album
+
+In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+- A functional web page that contains the music and art of the album
+- A web page that generates different ways of listening to the album based on the user’s input
+
+In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+- A functional web page that contains the music and art of the album
+- A web page that generates different ways of listening to the album based on the user’s input
+- An organized and attractive web page that is user-friendly
+
+
+In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research?
+
+Languages: 
+- Flask
+- Python
+- Javascript
+- HTML & CSS
+
+
+Topics to Research:
+- UI Design for the wheel of possibilities
+- Servers
+- Python syntax in general 
+
+For next class I’ll have all of the media and the pseudocode of the entire page, with all of its logical mechanics. Then I’ll build a working prototype of the back end. The next step is to implement all of the media into the html files with its corresponding ‘file players’. The last stage is creating a consistent sense of aesthetics and dynamics to make it user-friendly.
