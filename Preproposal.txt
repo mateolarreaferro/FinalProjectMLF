@@ -21,9 +21,9 @@ makes sense as a whole (even though each melody is different from the other).
 The program will ask for the input of each family member:
 - year of birth ---> to determine scale 
 - favorite color ---> to determine the key
-- bpm (in rest) ----> to determine tempo 
+- BPM (in rest) ----> to determine tempo 
 
-Result: a composition that illustrates the union between three generations living at differente paces but sharing essence. 
+Result: a composition that illustrates the union between three generations living at different paces but sharing essence. 
 
 
 
@@ -38,5 +38,5 @@ A) Mare(a/o) Web Page
 B) Sphere of Life (Jade Family Ball) 
 - audio or midi files? (Predetermined sequences for all potential combinations or real time randomness)
 - Installation or application?
-- If app: Some ux design will be required (what software should I use for this?)
-- What language is the bwest fit?
+- If app: Some UX design will be required (what software should I use for this?)
+- What language is the best fit?
