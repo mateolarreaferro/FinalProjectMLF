@@ -13,7 +13,7 @@ public class PlayStinger : MonoBehaviour {
 	void Update () {
 	
 	}
-
+//Assigns component and then plays a selected audio clip
 	void OnTriggerEnter(){
 		AudioSource myAudioSource = GetComponent<AudioSource>();
 		myAudioSource.Play ();
