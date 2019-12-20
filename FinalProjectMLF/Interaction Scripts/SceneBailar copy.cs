@@ -18,6 +18,8 @@ public class SceneBailar : MonoBehaviour
 
     }
     void OnCollisionEnter(Collision gameObjectInformation)
+    	// Changes Scene when player collides with game object
+
     {
         if (gameObjectInformation.gameObject.name == "FPSController")
         {
