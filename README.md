@@ -14,7 +14,7 @@ Scripts for Demo: Simple Scripts used for the demo showed in class. #Includes: O
 
 Interaction Scripts: All of the C# Scripts written/adapted for this project #Includes: PlayAudio, VideoSwapper, Player, ColorObjects, TimeofDay, SceneChanger
 
-Unity Session: Includes an executable Unity file, media files (images, videos, animations, etc.). #The executable is in the Asset folder under the name "UnitySessionIntrotoProgramming"
+Unity Session: Includes an executable Unity file, media files (images, videos, animations, etc.). #The executable is in the Assets folder --> Scenes --> Lobby
 
 Important Considerations: Download Unity Hub 2.2.2 Download Version: 2019.2.14f1
 // This project is a demo version of the museum. It contains basic mechanics, media, and general infrastructure
