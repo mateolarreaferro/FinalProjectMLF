@@ -1,4 +1,4 @@
-Enter to FinalProjectFolder for the newest version of the project
+Enter to FinalProject Folder for the newest version of the project
 
 
 
