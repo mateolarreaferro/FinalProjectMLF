@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 
 public class SceneBackLobby : MonoBehaviour
+//Takes you back to the Lobby
 {
 	// Start is called before the first frame update
 	void Start()
@@ -17,6 +18,7 @@ public class SceneBackLobby : MonoBehaviour
 	{
 
 	}
+	// Changes Scene when player collides with game object
 	void OnCollisionEnter(Collision gameObjectInformation)
 	{
 		if (gameObjectInformation.gameObject.name == "FPSController")
