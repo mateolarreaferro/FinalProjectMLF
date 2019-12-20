@@ -11,6 +11,7 @@ public class PlayWelcome : MonoBehaviour
     {
         source = GetComponent<AudioSource>();
     }
+    //Plays if collision is detected
     public void OnTriggerEnter(Collider other)
     {
         source.Play();
