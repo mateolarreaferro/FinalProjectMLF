@@ -17,9 +17,13 @@ Interaction Scripts: All of the C# Scripts written/adapted for this project #Inc
 
 Unity Session: https://drive.google.com/open?id=1C5BuwerkDLRzfK8aO3W4AUhznY7Zybuy
 Includes an executable Unity file, media files (images, videos, animations, etc.).
+
 Step 1: Download and decompress zip
+
 Step 2: Install Unity https://store.unity.com/#plans-individual
+
 Step 3: Make sure you have the right version (2019.2.14f1)
+
 Step 4:  The executable is in the Assets folder --> Scenes --> Lobby
 
 
