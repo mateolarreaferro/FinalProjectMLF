@@ -1,4 +1,4 @@
-Enter to FinalProject Folder for the newest version of the project
+ENTER 'FinalProjectMLF' FOR NEWEST VERSION OF THE PROJECT
 
 
 
