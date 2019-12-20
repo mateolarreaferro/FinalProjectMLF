@@ -24,7 +24,7 @@ Step 2: Install Unity https://store.unity.com/#plans-individual
 
 Step 3: Make sure you have the right version (2019.2.14f1)
 
-Step 4:  The executable is in the Assets folder --> Scenes --> Lobby
+Step 4:  The executable is in the Asset folder --> Scenes --> Lobby
 
 
 
