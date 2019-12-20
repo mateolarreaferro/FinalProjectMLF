@@ -11,6 +11,7 @@ public class Video_Swapper : MonoBehaviour {
 	public VideoClip myVideoClip;
 
 	void OnTriggerEnter () {
+		// Plays selected clip into selected game object (has to contain a videoplayer component)
 		myVideoPlayer.clip = myVideoClip;
 		myVideoPlayer.Play ();
 
