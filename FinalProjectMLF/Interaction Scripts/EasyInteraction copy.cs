@@ -4,27 +4,19 @@ using UnityEngine;
 
 public class EasyInteraction : MonoBehaviour
 {
-    [Header("When the object below touches this trigger zone")]
-    [Tooltip("This is the game object that will trigger an action when it enters this cube, make sure it has a rigidbody and a collider")]
+    
     public GameObject targetObject;
 
-    [Header("Or when an object with the tag below touches this trigger zone")]
-    [Tooltip("This will affect all objects with a certaing tag")]
     public string tagName;
-
-    [Header("Do either of these things to...")]
+// Interaction options
     public bool changeColor;
     public Color targetColor;
     public bool makeSound;
     public AudioClip sound;
     public bool switchEnabling;
     public bool destroyObject;
-
-    [Header("... To this object")]
+//To this object
     public GameObject changedObject;
-
-    [TextArea]
-    public string Notes = "Do not select MAKE APPEAR and MAKE DISAPPEAR and SWITCH ENABELING at the same time, that makes no sense.";
     
     void Start()
     {
@@ -65,7 +57,7 @@ public class EasyInteraction : MonoBehaviour
             }
         }
 
-        //Add audio source to changed object
+        //Assigns audio to object
         if(makeSound && changedObject.GetComponent<AudioSource>() == null)
         {
             changedObject.AddComponent<AudioSource>();
